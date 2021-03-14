@@ -1,3 +1,5 @@
+<img src="https://tryhackme.com/img/THMlogo.png" width=50>
+# Free Try-Hack-Me Rooms Guide
 # Level 1 - Intro
 - [x] OpenVPN https://tryhackme.com/room/openvpn
 - [x] Welcome https://tryhackme.com/jr/welcome
