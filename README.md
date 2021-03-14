@@ -1,4 +1,4 @@
-<img src="https://tryhackme.com/img/THMlogo.png" width=50%>
+<img src="https://tryhackme.com/img/THMlogo.png" width=20%>
 
 # Free Try-Hack-Me Rooms Guide
 # Level 1 - Intro
