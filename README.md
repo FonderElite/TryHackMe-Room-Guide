@@ -1,5 +1,3 @@
-<img src="https://tryhackme.com/img/favicon.png" width=20%>
-
 # Free Try-Hack-Me Rooms Guide
 # Level 1 - Intro
 - [x] OpenVPN https://tryhackme.com/room/openvpn
