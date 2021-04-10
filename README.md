@@ -49,6 +49,7 @@
 - [x] DevelPy https://tryhackme.com/room/bsidesgtdevelpy
 - [x] Jack of all trades https://tryhackme.com/room/jackofalltrades
 - [x] Bolt https://tryhackme.com/room/bolt
+- [x] Tokyo Ghoul https://tryhackme.com/room/tokyoghoul666
 
 # Level 5 - Reverse Engineering
 - [x] Intro to x86 64 https://tryhackme.com/room/introtox8664
